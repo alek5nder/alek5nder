@@ -1,5 +1,8 @@
-## Hi there 👋
+# Hello :D
+# 💡 About Me
+Hi! I’m Aleksander, a passionate Computer Science and Econometrics student now in my second year at AGH University in Kraków. I love transforming real-world challenges into smart digital solutions and have experience both in corporate environments (currently at Alior Bank) and independent tech projects
 
+<hr style="border:2px solid white;">
 
 ## 🌐 Find me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alek5nder) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajasinkI@gmail.com) 
@@ -9,6 +12,22 @@
 # 📊 Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alek5nder&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<hr style="border:2px solid white;">
+
+# 🚀 My Journey
+🏦 Alior Bank (2024–present):
+Building efficient task and time-tracking solutions using Power Apps, automating processes with Power Automate and VBA, and managing data in Oracle/ Teradata SQL environments — often dealing with both modern and very legacy datasets. Created dashboards in Power BI to improve reporting and error analysis across teams.
+
+💻 Independent Projects:
+
+- Developed and deployed two major web applications in .NET (RNN Web App, Bank App)
+
+- Built advanced business dashboards in Power BI for data-driven decision making
+
+- Designed and hosted a tech portal/blog, PC-HUB.pl (2018–2021), dedicated to PC hardware news and reviews — managed everything from content to backend infrastructure
+
+🏛️ Public Sector Internship:
+Delivered data analytics and process optimization for the Municipal Office in Kutno, creating Sharepoint and OneDrive workflow improvements and data visualization tools.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alek5nder&icon=0&color=0)](https://visitcount.itsvg.in)
