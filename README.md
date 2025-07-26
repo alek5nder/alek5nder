@@ -1,8 +1,7 @@
-# Hello :D
+# 👋 alek5nder
 # 💡 About Me
 Hi! I’m Aleksander, a passionate Computer Science and Econometrics student now in my second year at AGH University in Kraków. I love transforming real-world challenges into smart digital solutions and have experience both in corporate environments (currently at Alior Bank) and independent tech projects
 
-<hr style="border:2px solid white;">
 
 ## 🌐 Find me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alek5nder) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajasinkI@gmail.com) 
@@ -29,6 +28,5 @@ Building efficient task and time-tracking solutions using Power Apps, automating
 🏛️ Public Sector Internship:
 Delivered data analytics and process optimization for the Municipal Office in Kutno, creating Sharepoint and OneDrive workflow improvements and data visualization tools.
 
----
-[![](https://visitcount.itsvg.in/api?id=alek5nder&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
