@@ -57,6 +57,10 @@ Team & solo friendly. Automating the boring stuff — by default.
       <li>.NET web apps: RNN Web App, Bank App</li>
       <li>Power BI dashboards</li>
       <li>PC-HUB.pl blog (2018–2021): PC hardware news, content & backend</li>
+      <li><a href="https://www.youtube.com/watch?v=CxlHjIxweQo&t=181s" target="_blank" rel="noopener noreferrer">
+  Dino Run — C# & Unity Game
+</a>
+      </li
     </ul>
   </li>
 </ul>
