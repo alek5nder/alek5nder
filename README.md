@@ -54,14 +54,11 @@ Team & solo friendly. Automating the boring stuff — by default.
   <li>
     <b>💻 Independent projects:</b>
     <ul>
-      <li>.NET web apps: RNN Web App, Bank App</li>
-      <li>Power BI dashboards</li>
+      <li>.NET web apps: <a href="https://github.com/alek5nder/sentiment-analys-web-App-.net">RNN Web App</a>, <a>href="https://github.com/alek5nder/bank-app-csharp">Bank App</a> </li>
+      <li>Power BI dashboards: <a href=https://github.com/alek5nder/churn-analysis-machine-learning>Churn Analysis</a> and <a href="https://github.com/alek5nder/spotify-streams-power-bi">Spotify Streams Analysis</li>
+        <li>Machine Learning: <a href="https://github.com/alek5nder/nba-analysis-ml-with-R"> NBA Analysis</a>, <a href=https://github.com/alek5nder/churn-analysis-machine-learning>Churn Analyst</a>, <a href="https://github.com/alek5nder/chicago-crime-analys-ml-r">Chicago Crime Analysis </a> </li>
+          
       <li>PC-HUB.pl blog (2018–2021): PC hardware news, content & backend</li>
-      <li><a href="https://www.youtube.com/watch?v=CxlHjIxweQo&t=181s" target="_blank" rel="noopener noreferrer">
-  Dino Run — C# & Unity Game
-</a>
-      </li
-    </ul>
-  </li>
+    
 </ul>
 </details>
