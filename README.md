@@ -54,6 +54,7 @@ Team & solo friendly. Automating the boring stuff — by default.
   <li>
     <b>💻 Independent projects:</b>
     <ul>
+      <li>End-to-end ML Bank platform: <a href="https://github.com/alek5nder/mlops-credit-scoring-platform">Credit Scoring Platform (MLops)</a></li>
       <li>AI automatization: <a href="https://github.com/alek5nder/gmail-assistant-python">GMAIL assistant in Python & Perplexity</a></li>
       <li>.NET web apps: <a href="https://github.com/alek5nder/sentiment-analys-web-App-.net">RNN Web App</a>, <a href="https://github.com/alek5nder/bank-app-csharp">Bank App</a> </li>
       <li>Power BI dashboards: <a href=https://github.com/alek5nder/churn-analysis-machine-learning>Churn Analysis</a> and <a href="https://github.com/alek5nder/spotify-streams-power-bi">Spotify Streams Analysis</li>
